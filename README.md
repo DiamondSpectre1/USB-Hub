@@ -1,6 +1,8 @@
 # USB-Hub
 
-A USB Hub that splits one USB C input into 4 different USB Outputs, including 2 USB Type As and 2 USB Type Cs.
+Tired of too few USB slots on your device? This USB Hub is the solution for you.
+
+This USB Hub solves the sparce USB slot problem by splitting one USB C input into 4 different USB Outputs, including 2 USB Type As and 2 USB Type Cs.
 
 Simply plug your laptop/desktop into the USB C port labelled input, and enjoy your extra USB Slots for peripherals such as mice, keyboards, headphones, etc.
 

@@ -11,4 +11,5 @@ CAD at: https://cad.onshape.com/documents/af36d557f92c2c787e510c31/w/ea211b71790
 
 
 <img width="1054" height="400" alt="image" src="https://github.com/user-attachments/assets/0111620e-0e65-49b2-90b9-3784b5bc5514" />
+<img width="967" height="713" alt="image" src="https://github.com/user-attachments/assets/4803a931-fdde-4ca9-988d-a8ee3fcba0e5" />
 <img width="436" height="417" alt="image" src="https://github.com/user-attachments/assets/f7b51414-fcbd-4dbb-bb40-27372bb57e30" />
